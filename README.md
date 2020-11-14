@@ -1,2 +1,2 @@
 # BplusBrowser
-A full WebBrowser written in C# with History, bookmark and optmitesed features. The project was devloped for a school competiation.
+A full web browser written in C# with History, bookmark, and optimized features. The project was developed for Highschool competition.
