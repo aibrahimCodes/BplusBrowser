@@ -1,0 +1,30 @@
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.csprojResolveAssemblyReference.cache
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.About.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.AddFavorites.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.Calendar.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.Close.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.DeleteBrowsingHistory.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.InternetOption.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.WBrowser.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.Open.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.OrganizeFavorites.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.Properties.Resources.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.RenameLink.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Release\WBrowser.csproj.GenerateResource.Cache
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\bin\Release\WBrowser.exe
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\bin\Release\WBrowser.pdb
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.csprojResolveAssemblyReference.cache
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.About.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.AddFavorites.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.Calendar.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.Close.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.DeleteBrowsingHistory.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.InternetOption.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.WBrowser.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.Open.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.OrganizeFavorites.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.Properties.Resources.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.RenameLink.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.csproj.GenerateResource.Cache
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.exe
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Release\WBrowser.pdb

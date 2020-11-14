@@ -1,0 +1,89 @@
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\bin\Debug\WBrowser.exe
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\bin\Debug\WBrowser.pdb
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.About.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.Calendar.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.Close.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.Open.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.csproj.GenerateResource.Cache
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.exe
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.pdb
+C:\Users\A.ibrahim\Desktop\WBrowser\WBrowser\obj\Debug\WBrowser.csprojResolveAssemblyReference.cache
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.exe
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.pdb
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.csprojResolveAssemblyReference.cache
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.Calendar.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.Close.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.about.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.Open.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.csproj.GenerateResource.Cache
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\bin\Debug\WBrowser.exe
+C:\Users\A.ibrahim\Desktop\WBrowser - Copy\WBrowser\bin\Debug\WBrowser.pdb
+E:\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.exe
+E:\WBrowser - Copy\WBrowser\obj\Debug\WBrowser.pdb
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.exe
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.pdb
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\bin\Debug\WBrowser.exe
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\bin\Debug\WBrowser.pdb
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.csprojResolveAssemblyReference.cache
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.About.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.Calendar.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.Close.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.Open.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+C:\Users\A.ibrahim\Desktop\B+\WBrowser\obj\Debug\WBrowser.csproj.GenerateResource.Cache
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.exe
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.pdb
+E:\E\programming\New folder (3)\B+22\WBrowser\bin\Debug\WBrowser.exe
+E:\E\programming\New folder (3)\B+22\WBrowser\bin\Debug\WBrowser.pdb
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.csprojResolveAssemblyReference.cache
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.About.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.Calendar.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.Close.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.Open.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+E:\E\programming\New folder (3)\B+22\WBrowser\obj\Debug\WBrowser.csproj.GenerateResource.Cache
+H:\school\B+22\WBrowser\obj\Debug\WBrowser.exe
+H:\school\B+22\WBrowser\obj\Debug\WBrowser.pdb
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.exe
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.pdb
+D:\school\B+22\WBrowser\bin\Debug\WBrowser.exe
+D:\school\B+22\WBrowser\bin\Debug\WBrowser.pdb
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.csprojResolveAssemblyReference.cache
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.About.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.Calendar.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.Close.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.Open.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+D:\school\B+22\WBrowser\obj\Debug\WBrowser.csproj.GenerateResource.Cache
